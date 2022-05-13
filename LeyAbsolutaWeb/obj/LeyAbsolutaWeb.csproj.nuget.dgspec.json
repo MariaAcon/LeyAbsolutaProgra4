@@ -1,0 +1,301 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Maria del Mar Acon\\Desktop\\Proyecto  Ley Absoluta\\LeyAbsolutaWeb\\LeyAbsolutaWeb\\LeyAbsolutaWeb\\LeyAbsolutaWeb.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Maria del Mar Acon\\Desktop\\Proyecto  Ley Absoluta\\LeyAbsolutaWeb\\LeyAbsolutaWeb\\LeyAbsolutaWeb.Data\\LeyAbsolutaWeb.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Maria del Mar Acon\\Desktop\\Proyecto  Ley Absoluta\\LeyAbsolutaWeb\\LeyAbsolutaWeb\\LeyAbsolutaWeb.Data\\LeyAbsolutaWeb.Data.csproj",
+        "projectName": "LeyAbsolutaWeb.Data",
+        "projectPath": "C:\\Users\\Maria del Mar Acon\\Desktop\\Proyecto  Ley Absoluta\\LeyAbsolutaWeb\\LeyAbsolutaWeb\\LeyAbsolutaWeb.Data\\LeyAbsolutaWeb.Data.csproj",
+        "packagesPath": "C:\\Users\\Maria del Mar Acon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Maria del Mar Acon\\Desktop\\Proyecto  Ley Absoluta\\LeyAbsolutaWeb\\LeyAbsolutaWeb\\LeyAbsolutaWeb.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Maria del Mar Acon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Maria del Mar Acon\\Desktop\\Proyecto  Ley Absoluta\\LeyAbsolutaWeb\\LeyAbsolutaWeb\\LeyAbsolutaWeb.Models\\LeyAbsolutaWeb.Models.csproj": {
+                "projectPath": "C:\\Users\\Maria del Mar Acon\\Desktop\\Proyecto  Ley Absoluta\\LeyAbsolutaWeb\\LeyAbsolutaWeb\\LeyAbsolutaWeb.Models\\LeyAbsolutaWeb.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Maria del Mar Acon\\Desktop\\Proyecto  Ley Absoluta\\LeyAbsolutaWeb\\LeyAbsolutaWeb\\LeyAbsolutaWeb.Models\\LeyAbsolutaWeb.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Maria del Mar Acon\\Desktop\\Proyecto  Ley Absoluta\\LeyAbsolutaWeb\\LeyAbsolutaWeb\\LeyAbsolutaWeb.Models\\LeyAbsolutaWeb.Models.csproj",
+        "projectName": "LeyAbsolutaWeb.Models",
+        "projectPath": "C:\\Users\\Maria del Mar Acon\\Desktop\\Proyecto  Ley Absoluta\\LeyAbsolutaWeb\\LeyAbsolutaWeb\\LeyAbsolutaWeb.Models\\LeyAbsolutaWeb.Models.csproj",
+        "packagesPath": "C:\\Users\\Maria del Mar Acon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Maria del Mar Acon\\Desktop\\Proyecto  Ley Absoluta\\LeyAbsolutaWeb\\LeyAbsolutaWeb\\LeyAbsolutaWeb.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Maria del Mar Acon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Maria del Mar Acon\\Desktop\\Proyecto  Ley Absoluta\\LeyAbsolutaWeb\\LeyAbsolutaWeb\\LeyAbsolutaWeb.Utilities\\LeyAbsolutaWeb.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Maria del Mar Acon\\Desktop\\Proyecto  Ley Absoluta\\LeyAbsolutaWeb\\LeyAbsolutaWeb\\LeyAbsolutaWeb.Utilities\\LeyAbsolutaWeb.Utilities.csproj",
+        "projectName": "LeyAbsolutaWeb.Utilities",
+        "projectPath": "C:\\Users\\Maria del Mar Acon\\Desktop\\Proyecto  Ley Absoluta\\LeyAbsolutaWeb\\LeyAbsolutaWeb\\LeyAbsolutaWeb.Utilities\\LeyAbsolutaWeb.Utilities.csproj",
+        "packagesPath": "C:\\Users\\Maria del Mar Acon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Maria del Mar Acon\\Desktop\\Proyecto  Ley Absoluta\\LeyAbsolutaWeb\\LeyAbsolutaWeb\\LeyAbsolutaWeb.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Maria del Mar Acon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Maria del Mar Acon\\Desktop\\Proyecto  Ley Absoluta\\LeyAbsolutaWeb\\LeyAbsolutaWeb\\LeyAbsolutaWeb\\LeyAbsolutaWeb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Maria del Mar Acon\\Desktop\\Proyecto  Ley Absoluta\\LeyAbsolutaWeb\\LeyAbsolutaWeb\\LeyAbsolutaWeb\\LeyAbsolutaWeb.csproj",
+        "projectName": "LeyAbsolutaWeb",
+        "projectPath": "C:\\Users\\Maria del Mar Acon\\Desktop\\Proyecto  Ley Absoluta\\LeyAbsolutaWeb\\LeyAbsolutaWeb\\LeyAbsolutaWeb\\LeyAbsolutaWeb.csproj",
+        "packagesPath": "C:\\Users\\Maria del Mar Acon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Maria del Mar Acon\\Desktop\\Proyecto  Ley Absoluta\\LeyAbsolutaWeb\\LeyAbsolutaWeb\\LeyAbsolutaWeb\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Maria del Mar Acon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Maria del Mar Acon\\Desktop\\Proyecto  Ley Absoluta\\LeyAbsolutaWeb\\LeyAbsolutaWeb\\LeyAbsolutaWeb.Data\\LeyAbsolutaWeb.Data.csproj": {
+                "projectPath": "C:\\Users\\Maria del Mar Acon\\Desktop\\Proyecto  Ley Absoluta\\LeyAbsolutaWeb\\LeyAbsolutaWeb\\LeyAbsolutaWeb.Data\\LeyAbsolutaWeb.Data.csproj"
+              },
+              "C:\\Users\\Maria del Mar Acon\\Desktop\\Proyecto  Ley Absoluta\\LeyAbsolutaWeb\\LeyAbsolutaWeb\\LeyAbsolutaWeb.Models\\LeyAbsolutaWeb.Models.csproj": {
+                "projectPath": "C:\\Users\\Maria del Mar Acon\\Desktop\\Proyecto  Ley Absoluta\\LeyAbsolutaWeb\\LeyAbsolutaWeb\\LeyAbsolutaWeb.Models\\LeyAbsolutaWeb.Models.csproj"
+              },
+              "C:\\Users\\Maria del Mar Acon\\Desktop\\Proyecto  Ley Absoluta\\LeyAbsolutaWeb\\LeyAbsolutaWeb\\LeyAbsolutaWeb.Utilities\\LeyAbsolutaWeb.Utilities.csproj": {
+                "projectPath": "C:\\Users\\Maria del Mar Acon\\Desktop\\Proyecto  Ley Absoluta\\LeyAbsolutaWeb\\LeyAbsolutaWeb\\LeyAbsolutaWeb.Utilities\\LeyAbsolutaWeb.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

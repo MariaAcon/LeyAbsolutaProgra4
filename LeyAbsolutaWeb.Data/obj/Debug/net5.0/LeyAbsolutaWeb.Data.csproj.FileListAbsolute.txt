@@ -1,0 +1,30 @@
+C:\Users\Estudiantes UNA\source\repos\LeyAbsolutaWeb\LeyAbsolutaWeb.Data\bin\Debug\net5.0\LeyAbsolutaWeb.Data.deps.json
+C:\Users\Estudiantes UNA\source\repos\LeyAbsolutaWeb\LeyAbsolutaWeb.Data\bin\Debug\net5.0\LeyAbsolutaWeb.Data.dll
+C:\Users\Estudiantes UNA\source\repos\LeyAbsolutaWeb\LeyAbsolutaWeb.Data\bin\Debug\net5.0\ref\LeyAbsolutaWeb.Data.dll
+C:\Users\Estudiantes UNA\source\repos\LeyAbsolutaWeb\LeyAbsolutaWeb.Data\bin\Debug\net5.0\LeyAbsolutaWeb.Data.pdb
+C:\Users\Estudiantes UNA\source\repos\LeyAbsolutaWeb\LeyAbsolutaWeb.Data\bin\Debug\net5.0\LeyAbsolutaWeb.Models.dll
+C:\Users\Estudiantes UNA\source\repos\LeyAbsolutaWeb\LeyAbsolutaWeb.Data\bin\Debug\net5.0\LeyAbsolutaWeb.Models.pdb
+C:\Users\Estudiantes UNA\source\repos\LeyAbsolutaWeb\LeyAbsolutaWeb.Data\obj\Debug\net5.0\LeyAbsolutaWeb.Data.csproj.AssemblyReference.cache
+C:\Users\Estudiantes UNA\source\repos\LeyAbsolutaWeb\LeyAbsolutaWeb.Data\obj\Debug\net5.0\LeyAbsolutaWeb.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiantes UNA\source\repos\LeyAbsolutaWeb\LeyAbsolutaWeb.Data\obj\Debug\net5.0\LeyAbsolutaWeb.Data.AssemblyInfoInputs.cache
+C:\Users\Estudiantes UNA\source\repos\LeyAbsolutaWeb\LeyAbsolutaWeb.Data\obj\Debug\net5.0\LeyAbsolutaWeb.Data.AssemblyInfo.cs
+C:\Users\Estudiantes UNA\source\repos\LeyAbsolutaWeb\LeyAbsolutaWeb.Data\obj\Debug\net5.0\LeyAbsolutaWeb.Data.csproj.CoreCompileInputs.cache
+C:\Users\Estudiantes UNA\source\repos\LeyAbsolutaWeb\LeyAbsolutaWeb.Data\obj\Debug\net5.0\LeyAbsolutaWeb.Data.csproj.CopyComplete
+C:\Users\Estudiantes UNA\source\repos\LeyAbsolutaWeb\LeyAbsolutaWeb.Data\obj\Debug\net5.0\LeyAbsolutaWeb.Data.dll
+C:\Users\Estudiantes UNA\source\repos\LeyAbsolutaWeb\LeyAbsolutaWeb.Data\obj\Debug\net5.0\ref\LeyAbsolutaWeb.Data.dll
+C:\Users\Estudiantes UNA\source\repos\LeyAbsolutaWeb\LeyAbsolutaWeb.Data\obj\Debug\net5.0\LeyAbsolutaWeb.Data.pdb
+C:\Users\Maria del Mar Acon\Desktop\Proyecto  Ley Absoluta\LeyAbsolutaWeb\LeyAbsolutaWeb\LeyAbsolutaWeb.Data\bin\Debug\net5.0\LeyAbsolutaWeb.Data.deps.json
+C:\Users\Maria del Mar Acon\Desktop\Proyecto  Ley Absoluta\LeyAbsolutaWeb\LeyAbsolutaWeb\LeyAbsolutaWeb.Data\bin\Debug\net5.0\LeyAbsolutaWeb.Data.dll
+C:\Users\Maria del Mar Acon\Desktop\Proyecto  Ley Absoluta\LeyAbsolutaWeb\LeyAbsolutaWeb\LeyAbsolutaWeb.Data\bin\Debug\net5.0\ref\LeyAbsolutaWeb.Data.dll
+C:\Users\Maria del Mar Acon\Desktop\Proyecto  Ley Absoluta\LeyAbsolutaWeb\LeyAbsolutaWeb\LeyAbsolutaWeb.Data\bin\Debug\net5.0\LeyAbsolutaWeb.Data.pdb
+C:\Users\Maria del Mar Acon\Desktop\Proyecto  Ley Absoluta\LeyAbsolutaWeb\LeyAbsolutaWeb\LeyAbsolutaWeb.Data\bin\Debug\net5.0\LeyAbsolutaWeb.Models.dll
+C:\Users\Maria del Mar Acon\Desktop\Proyecto  Ley Absoluta\LeyAbsolutaWeb\LeyAbsolutaWeb\LeyAbsolutaWeb.Data\bin\Debug\net5.0\LeyAbsolutaWeb.Models.pdb
+C:\Users\Maria del Mar Acon\Desktop\Proyecto  Ley Absoluta\LeyAbsolutaWeb\LeyAbsolutaWeb\LeyAbsolutaWeb.Data\obj\Debug\net5.0\LeyAbsolutaWeb.Data.csproj.AssemblyReference.cache
+C:\Users\Maria del Mar Acon\Desktop\Proyecto  Ley Absoluta\LeyAbsolutaWeb\LeyAbsolutaWeb\LeyAbsolutaWeb.Data\obj\Debug\net5.0\LeyAbsolutaWeb.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria del Mar Acon\Desktop\Proyecto  Ley Absoluta\LeyAbsolutaWeb\LeyAbsolutaWeb\LeyAbsolutaWeb.Data\obj\Debug\net5.0\LeyAbsolutaWeb.Data.AssemblyInfoInputs.cache
+C:\Users\Maria del Mar Acon\Desktop\Proyecto  Ley Absoluta\LeyAbsolutaWeb\LeyAbsolutaWeb\LeyAbsolutaWeb.Data\obj\Debug\net5.0\LeyAbsolutaWeb.Data.AssemblyInfo.cs
+C:\Users\Maria del Mar Acon\Desktop\Proyecto  Ley Absoluta\LeyAbsolutaWeb\LeyAbsolutaWeb\LeyAbsolutaWeb.Data\obj\Debug\net5.0\LeyAbsolutaWeb.Data.csproj.CoreCompileInputs.cache
+C:\Users\Maria del Mar Acon\Desktop\Proyecto  Ley Absoluta\LeyAbsolutaWeb\LeyAbsolutaWeb\LeyAbsolutaWeb.Data\obj\Debug\net5.0\LeyAbsolutaWeb.Data.csproj.CopyComplete
+C:\Users\Maria del Mar Acon\Desktop\Proyecto  Ley Absoluta\LeyAbsolutaWeb\LeyAbsolutaWeb\LeyAbsolutaWeb.Data\obj\Debug\net5.0\LeyAbsolutaWeb.Data.dll
+C:\Users\Maria del Mar Acon\Desktop\Proyecto  Ley Absoluta\LeyAbsolutaWeb\LeyAbsolutaWeb\LeyAbsolutaWeb.Data\obj\Debug\net5.0\ref\LeyAbsolutaWeb.Data.dll
+C:\Users\Maria del Mar Acon\Desktop\Proyecto  Ley Absoluta\LeyAbsolutaWeb\LeyAbsolutaWeb\LeyAbsolutaWeb.Data\obj\Debug\net5.0\LeyAbsolutaWeb.Data.pdb

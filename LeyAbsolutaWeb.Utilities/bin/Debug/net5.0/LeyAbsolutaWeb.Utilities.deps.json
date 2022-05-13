@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LeyAbsolutaWeb.Utilities/1.0.0": {
+        "runtime": {
+          "LeyAbsolutaWeb.Utilities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LeyAbsolutaWeb.Utilities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
